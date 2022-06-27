@@ -30,3 +30,17 @@
       }
      
 }
+@media screen and (max-width:400px){
+  header{
+    height: 23vh;
+  }
+  .gallery-container1{
+    margin-top: 61vh;
+  }
+  .box{
+    margin-top: 65vh;
+  }
+  footer{
+    height: 20vh;
+  }
+}
