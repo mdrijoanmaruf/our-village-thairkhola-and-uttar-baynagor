@@ -1,0 +1,32 @@
+@media screen and (max-width:600px) {
+    header{
+        height: 16vh;
+    }
+    .nav{
+        margin-left: 0px;
+    }
+    .text-body {
+        text-align: center;
+        padding: 40px;
+        margin-left: 34vw;
+        margin-top: -65px;
+      }
+      .address {
+        margin-left: 32vw;
+      }  
+      .fb-group{
+        margin-left: 40%;
+      }
+      .home-img {
+        border-radius: 22px;
+        height: 62vw;
+        margin-bottom: 31px;
+      }
+      footer{
+        height: 122px;
+      }
+      .copyright{
+        text-align: center;
+      }
+     
+}
