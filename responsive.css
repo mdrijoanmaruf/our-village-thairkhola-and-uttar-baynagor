@@ -37,10 +37,19 @@
   .gallery-container1{
     margin-top: 61vh;
   }
+  .gallery-container2{
+    margin-top: 65vh;
+  }
   .box{
     margin-top: 65vh;
   }
   footer{
     height: 20vh;
+  }
+  .gall-cont-img {
+    height: 185px;
+  }
+  .title{
+    margin-left: 16px;
   }
 }
